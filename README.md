@@ -1,2 +1,2 @@
 # IKRealmList
-![Image of Yaktocat](https://raw.githubusercontent.com/IkerRuizArnauda/IKRealmList/master/IKRealm.PNG)
+![KRealm](https://raw.githubusercontent.com/IkerRuizArnauda/IKRealmServer/master/IKRealm.PNG)
